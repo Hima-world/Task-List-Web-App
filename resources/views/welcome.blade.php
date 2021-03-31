@@ -46,7 +46,7 @@
 @method ('PUT')
 @csrf
 <input type="text" name="completed" value="" hidden>
-<button class="btn btn-warning">completed task</button>
+<button class="btn btn-warning ">completed task</button>
 
 </form>
 @endif
